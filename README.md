@@ -46,6 +46,7 @@ Using Pivot tables tool in Ms. Excel and calculated columns, answers were provid
 **N.B: The results for each questions stated above are contained in the AMAZON zIP Folder attached to this project.**
 [AMAZON.zip](https://github.com/user-attachments/files/21091149/AMAZON.zip)
 
-Final Task: Dashboard Creation 
-Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your 
-Creativity
+Using the cleaned dataset and pivot outputs, an interactive visual dashboard was built which summarises the results of each pivoting process on the dataset for this project. A snapshot of the Dashboard is shown below:
+![Dashboard](https://github.com/user-attachments/assets/1d0bd6c8-8845-44af-b0f0-60bca4758068)
+
+
