@@ -83,6 +83,7 @@ The chart indicates that certain categories like Consumer Goods and Electronics 
 
 
 5. **Business Recommendations**
+   
 1.	Leverage High Ratings + Discounts:
 - Prioritize marketing of highly rated, deeply discounted items to maximize conversions.
   
