@@ -41,7 +41,6 @@ Using Pivot tables tool in Ms. Excel and calculated columns, answers were provid
 12. How many products have fewer than 1,000 reviews? 
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined.
+
 **N.B: The results for each questions stated above are contained in the AMAZON zIP Folder attached to this project.**
-
-
-# Amazon Product Review Analysis Report
+[AMAZON.zip](https://github.com/user-attachments/files/21091149/AMAZON.zip)
