@@ -73,11 +73,7 @@ The chart indicates that certain categories like Consumer Goods and Electronics 
 - Sellers should prioritize these high-performing SKUs in marketing efforts.
   
 4. Additional Metrics and Findings
-Metric	Value	Insight
-Products with ≥ 50% Discount	674	~46% of products use aggressive pricing
-Rating Distribution	3.0: 1 product	Indicates tight clustering in rating values
-	4.0: 1 product	
-Total Records	1,465	Broad sample size for valid analysis
+![Table](https://github.com/user-attachments/assets/68dd9b5a-b04f-48f6-9789-be0d36b6bfab)
 
 
 5. Business Recommendations
