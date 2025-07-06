@@ -50,24 +50,30 @@ Using the cleaned dataset and pivot outputs, an interactive visual dashboard was
 ![Dashboard](https://github.com/user-attachments/assets/1d0bd6c8-8845-44af-b0f0-60bca4758068)
 
 # Key Insights from Dashboard Analysis
-1. Rating vs Discount 
+1. Rating vs Discount
+   
 **Observation**
 The "Rating vs Discount" radar chart reveals no clear linear trend between discount percentage and product ratings. Some products with discounts above 0.6 (60%) still maintain strong ratings, indicating:
 - Discounts do not significantly lower customer satisfaction.
 - Customers are generally satisfied even when prices are heavily slashed.
+  
 **Implication**
 Retailers can confidently run deep discount campaigns without fear of damaging product reputation, especially for quality products.
 
-2. Average Price vs Discounted Price by Category 
+2. Average Price vs Discounted Price by Category
+   
 **Observation**
 Across categories like Consumer Electronics, Home & Kitchen, and Office Supplies, there are noticeable gaps between actual prices and discounted values. Some categories show consistently high discount sums.
+
 **Implication**
 - Certain product categories (e.g., Electronics) are highly competitive, leading to consistent discounting.
 - Price sensitivity is evident; discounts may be necessary to remain relevant.
   
-3. Highest Average Rated Products 
+3. Highest Average Rated Products
+   
 **Observation**
 The chart indicates that certain categories like Consumer Goods and Electronics dominate the list of products with the highest average ratings.
+
 **Implication:**
 - These categories have the potential for brand loyalty and positive customer perception.
 - Sellers should prioritize these high-performing SKUs in marketing efforts.
@@ -76,16 +82,20 @@ The chart indicates that certain categories like Consumer Goods and Electronics 
 ![Table](https://github.com/user-attachments/assets/68dd9b5a-b04f-48f6-9789-be0d36b6bfab)
 
 
-5. Business Recommendations
+5. **Business Recommendations**
 1.	Leverage High Ratings + Discounts:
-o	Prioritize marketing of highly rated, deeply discounted items to maximize conversions.
+- Prioritize marketing of highly rated, deeply discounted items to maximize conversions.
+  
 2.	Category Targeting:
-o	Focus discounting on price-sensitive categories while maintaining margins in premium segments.
+- Focus discounting on price-sensitive categories while maintaining margins in premium segments.
+  
 3.	Enhance Rating Visibility:
-o	Use badges, highlight reels, or featured sections to showcase top-rated products in listings.
+- Use badges, highlight reels, or featured sections to showcase top-rated products in listings.
+  
 4.	Data-Driven Promotions:
-o	Launch dynamic pricing models using insights from average rating and review count to fine-tune discount levels.
-Summary
+- Launch dynamic pricing models using insights from average rating and review count to fine-tune discount levels.
+  
+**Summary**
 This analysis supports a data-informed approach to optimizing product listings, discounts, and customer satisfaction. The findings show that aggressive discounting can be effective, customer satisfaction remains strong, and category-level dynamics should drive marketing and pricing decisions.
 
 
